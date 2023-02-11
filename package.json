@@ -1,0 +1,36 @@
+{
+  "name": "homepage-v2",
+  "version": "1.0.0",
+  "description": "A new attempt at a homepage",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcomatas/homepage-v2.git"
+  },
+  "keywords": [],
+  "author": "Michael Comatas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcomatas/homepage-v2/issues"
+  },
+  "homepage": "https://github.com/mcomatas/homepage-v2#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.9",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "framer-motion": "^9.0.2",
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-next": "^13.1.6",
+    "prettier": "^2.8.4"
+  }
+}
