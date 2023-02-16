@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/mcomatas/homepage-v2#readme",
   "dependencies": {
-    "@chakra-ui/react": "^2.4.9",
+    "@chakra-ui/react": "^2.5.0",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
     "framer-motion": "^9.0.2",
@@ -30,6 +30,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "eslint": "^8.34.0",
     "eslint-config-next": "^13.1.6",
     "prettier": "^2.8.4"
   }
