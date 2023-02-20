@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mcomatas/homepage-v2#readme",
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.17",
     "@chakra-ui/react": "^2.5.0",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
