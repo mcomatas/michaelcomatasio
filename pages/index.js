@@ -10,7 +10,7 @@ const Page = () => {
 //    <Image borderColor="whiteAlpha.800" borderWidth={2} borderStyle="solid" maxWidth="100px" display="inline-block" borderRadius="full" src="/public/meRound.png" alt="Profile Image" />
 
     return (
-        <Container>
+        <Container p={1}>
             <Box borderRadius="lg" bg={useColorModeValue('purple.100', 'whiteAlpha.300')} p={2} mb={6} align="center">
                 Computer Science @ Rutgers University
                 <br />
