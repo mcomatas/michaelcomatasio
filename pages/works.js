@@ -1,6 +1,8 @@
 import { Container, Box, Heading, SimpleGrid, useColorModeValue, Divider } from '@chakra-ui/react'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
+import thumbSlippi from '../public/slippi.png'
+import thumbDiscord from '../public/discord.png'
 
 const Works = () => {
     return (
@@ -16,8 +18,8 @@ const Works = () => {
                     </WorkGridItem>
                 </Section>
                 <Section>
-                    <WorkGridItem id="toadbot" title="Toad Bot" thumbnail={'/discord.png'}>
-                        A discord bot to provide functionality in a server with my friends and I.
+                    <WorkGridItem id="homepage" title="Homepage" thumbnail={'/discord.png'}>
+                        A homepage to serve as a digital resume for myself.
                     </WorkGridItem>
                 </Section>
             </SimpleGrid>
