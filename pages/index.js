@@ -38,7 +38,7 @@ const Page = () => {
                     </Heading>
                     <Paragraph>
                         I studied Computer Science, Math, and Psychology at Rutgers University. I'm currently at Nokia
-                        as an optics system engineer where I help builld fiber optic systems as well as helping with 
+                        as an optics system engineer where I help build fiber optic systems as well as helping with 
                         automation of tests cases for those systems.
                     </Paragraph>
                     <Box align="center" my={4}>

@@ -13,12 +13,12 @@ const Works = () => {
 
             <SimpleGrid columns={[1,1,2]} gap={6}>
                 <Section>
-                    <WorkGridItem id="slippiwincalculator" title="Slippi Win Calculator" thumbnail={'/slippi.png'}>
+                    <WorkGridItem id="slippiwincalculator" title="Slippi Win Calculator" thumbnail={'/slippi.jpg'}>
                         A program to give in depth win percentages of a players Slippi account.
                     </WorkGridItem>
                 </Section>
                 <Section>
-                    <WorkGridItem id="homepage" title="Homepage" thumbnail={'/discord.png'}>
+                    <WorkGridItem id="homepage" title="My Homepage" thumbnail={'/profile.png'}>
                         A homepage to serve as a digital resume for myself.
                     </WorkGridItem>
                 </Section>

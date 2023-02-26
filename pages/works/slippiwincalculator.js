@@ -9,7 +9,7 @@ const Work = () => {
         <Layout title="Slippi Win Calculator">
             <Container>
                 <Title>
-                    Slippi Win Calculator <Badge>2022</Badge>
+                    Slippi Win Calculator <Badge colorScheme="purple">2022</Badge>
                 </Title>
                 <P>
                     A program to give a user in depth win percentages of their <Link href="https://slippi.gg/" target="_blank">Slippi</Link> data.        
