@@ -1,8 +1,6 @@
 import { Container, Box, Heading, SimpleGrid, useColorModeValue, Divider } from '@chakra-ui/react'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
-import thumbSlippi from '../public/slippi.png'
-import thumbDiscord from '../public/discord.png'
 
 const Works = () => {
     return (
