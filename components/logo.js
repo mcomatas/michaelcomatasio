@@ -12,7 +12,7 @@ line-height: 20px;
 padding: 10px;
 
 &:hover img {
-    transform: rotate(-20deg);
+    transform: rotate(20deg);
 }
 `
 
@@ -24,10 +24,11 @@ const Logo = () => {
         (<Link href="/" scroll={false}>
             
             <LogoBox>
-                <Image src="/meRound.png" width={5} height={5} />
+                {/*<Image src="/meRound.png" width={5} height={5} />*/}
+                <Image src={ useColorModeValue( '/hat.png', '/hat_white.png')} width={5} height={5} />
                 <Text 
                     color={useColorModeValue('gray.800', 'white.900')}
-                    fontFamily="M PLUS Rounded 1c, sans-serif"
+                    fontFamily="Jua, sans-serif"
                     fontWeight="bold"
                     ml={3}
                 >

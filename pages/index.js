@@ -42,7 +42,7 @@ const Page = () => {
                         automation of tests cases for those systems.
                     </Paragraph>
                     <Box align="center" my={4}>
-                        <NextLink href="/works">
+                        <NextLink href="/projects">
                             <Button rightIcon={<ChevronRightIcon />} colorScheme="purple">
                                 My Portfolio
                             </Button>

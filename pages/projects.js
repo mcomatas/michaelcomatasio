@@ -20,6 +20,11 @@ const Works = () => {
                         A homepage to serve as a digital resume for myself.
                     </WorkGridItem>
                 </Section>
+                <Section>
+                    <WorkGridItem id="basementboys" title="Basement Boys" thumbnail={'/bbthumb.jpg'} >
+                        A full stack application to act as an online portfolio for my friends and I Super Smash Bros. Melee combos.    
+                    </WorkGridItem>    
+                </Section>
             </SimpleGrid>
         </Container>
     )
