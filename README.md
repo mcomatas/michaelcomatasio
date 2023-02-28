@@ -1,5 +1,4 @@
 # Michael's Homepage
----
 https://michaelcomatas.io
 ---
 ## Stack
