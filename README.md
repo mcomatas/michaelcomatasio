@@ -1,7 +1,8 @@
-### Michael's Homepage
+# Michael's Homepage
+---
 https://michaelcomatas.io
 ---
-# Stack
+## Stack
 - [NextJS](https://nextjs.org/)
 - [ChakraUI](https://chakra-ui.com/)
 ---
