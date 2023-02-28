@@ -6,11 +6,8 @@ import { BioSection, BioYear } from '../components/bio'
 import NextLink from 'next/link'
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import { IoLogoGithub } from 'react-icons/io5'
-//import Image from 'next/image'
 
 const Page = () => {
-//    <Image borderColor="whiteAlpha.800" borderWidth={2} borderStyle="solid" maxWidth="100px" display="inline-block" borderRadius="full" src="/public/meRound.png" alt="Profile Image" />
-
     return (
         <Layout>
             <Container p={1}>
