@@ -27,6 +27,11 @@ const Works = () => {
                             A full stack application to act as an online portfolio for my friends and I Super Smash Bros. Melee combos.    
                         </WorkGridItem>    
                     </Section>
+                    <Section>
+                        <WorkGridItem id="toadbot" title="ToadBot" thumbnail={'/discord.png'} >
+                            A discord bot to add some functionality for a serve with friends and myself.
+                        </WorkGridItem>
+                    </Section>
                 </SimpleGrid>
             </Container>
         </Layout>
