@@ -12,9 +12,9 @@ const Page = () => {
         <Layout>
             <Container p={1}>
                 <Box borderRadius="lg" bg={useColorModeValue('blackAlpha.100', 'whiteAlpha.300')} p={2} mb={6} align="center">
-                    Computer Science @ Rutgers University
+                    Verification Engineer @ Nokia Bell Labs
                     <br />
-                    Optics System Engineer @ Nokia
+                    Computer Science @ Rutgers University
                 </Box>
 
                 <Box display={{ md: 'flex' }}>
