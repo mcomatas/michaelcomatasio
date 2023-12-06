@@ -40,6 +40,15 @@ const Work = () => {
                 In addition the bot uses a database to keep record of each
                 server members currency and number of items they have:
                 <WorkImage src={'/toadbot/example2.png'} alt="example" />
+
+                <Box align="center">
+                    <NextLink href="/projects">
+                        <Button colorScheme="purple" leftIcon={<ChevronLeftIcon />}>
+                            Back to projects
+                        </Button>
+                    </NextLink>
+                </Box>
+
             </Container>
         </Layout>
     )
