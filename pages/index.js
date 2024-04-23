@@ -35,7 +35,7 @@ const Page = () => {
                     </Heading>
                     <Paragraph>
                         I studied Computer Science, Math, and Psychology at Rutgers University. I'm currently at Nokia
-                        as an optics system engineer where I help build fiber optic systems as well as helping with 
+                        as a verification engineer where I help build fiber optic systems as well as helping with 
                         automation of tests cases for those systems.
                     </Paragraph>
                     <Box align="center" my={4}>
@@ -60,7 +60,7 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2021 to present</BioYear>
-                        Working as an Optics System Engineer for Nokia Bell Labs
+                        Working as a verification engineer for Nokia Bell Labs
                     </BioSection>
                 </Section>
                 <Section delay={0.3}>
