@@ -28,7 +28,7 @@ const Work = () => {
                     </ListItem>
                     <ListItem>
                         <Meta>Stack</Meta>
-                        NodeJS
+                        Node.js
                     </ListItem>
                 </List>
 

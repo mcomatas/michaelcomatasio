@@ -28,7 +28,7 @@ const Work = () => {
                     </ListItem>
                     <ListItem>
                         <Meta>Stack</Meta>
-                        Vuejs / Firebase
+                        Vue.js / Firebase
                     </ListItem>
                 </List>
 

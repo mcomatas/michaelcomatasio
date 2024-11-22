@@ -26,7 +26,7 @@ const Work = () => {
                     </ListItem>
                     <ListItem>
                         <Meta>Stack</Meta>
-                        NextJS / Chakra UI
+                        Next.js / ChakraUI
                     </ListItem>
                 </List>
 
