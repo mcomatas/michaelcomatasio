@@ -7,8 +7,24 @@ const Works = () => {
     return (
         <Layout title="Projects">
             <Container>
+                
                 <Heading as="h3" fontSize={20} mb={4}>
-                    Works
+                    Current Projects
+                </Heading>
+
+                <SimpleGrid columns={[1,1,1]} gap={6}>
+                    <Section>
+                        <WorkGridItem id="nokiatestingapp" title="Nokia Testing App" thumbnail={'/nokia.jpeg'}>
+                            A desktop application to help improve testing at Nokia.
+                        </WorkGridItem>
+                    </Section>
+                </SimpleGrid>
+
+                
+                <Divider my={6}/>
+
+                <Heading as="h3" fontSize={20} mb={4}>
+                    Past Projects
                 </Heading>
         
                 <SimpleGrid columns={[1,1,2]} gap={6}>
